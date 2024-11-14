@@ -1,0 +1,13 @@
+clear
+git status
+clear
+git add testing.py
+git status
+clear
+git commit -m "added testing.py file"
+git status
+rm testing.py
+git restore testing.py
+clear
+git status
+This sentence is only added to see if changes occur.
