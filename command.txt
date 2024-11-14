@@ -11,3 +11,4 @@ git restore testing.py
 clear
 git status
 This sentence is only added to see if changes occur.
+Sentenced added again to see if changes occured on local machine.
